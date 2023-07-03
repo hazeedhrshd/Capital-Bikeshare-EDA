@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of Capital Bikeshare
 
-![Capital Bikeshare](capital_bikeshare.jpg)
+
 
 This repository contains an Exploratory Data Analysis (EDA) of the Capital Bikeshare dataset. The analysis aims to gain insights into bike usage patterns, user behavior, and other relevant information to understand the dynamics of the Capital Bikeshare system.
 
