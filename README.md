@@ -10,7 +10,7 @@ Capital Bikeshare is a bike-sharing service that operates in [Washington, D.C.](
 
 ## Data
 
-The Capital Bikeshare dataset used for this EDA can be obtained from [Capital Bikeshare's official website](https://www.capitalbikeshare.com/system-data). The dataset includes the following information:
+The dataset includes the following information:
 
 - **datetime**: Datetime of each record.
 - **season**: season encoded as a number.
